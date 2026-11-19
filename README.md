@@ -17,7 +17,8 @@
 ### Find me around the internet
 
 <a href="https://x.com/IceBearResearch"><img src="https://img.shields.io/badge/X-@IceBearResearch-000000?style=for-the-badge&logo=x&logoColor=white" alt="X: @IceBearResearch" /></a>
-<a href="https://discord.com/users/YOUR_DISCORD_USER_ID"><img src="https://img.shields.io/badge/Discord-@YOUR_DISCORD_HANDLE-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://x.com/judyluvCS"><img src="https://img.shields.io/badge/X-@judyluvCS-000000?style=for-the-badge&logo=x&logoColor=white" alt="X: @judyluvCS" /></a>
+<img src="https://img.shields.io/badge/Discord-@aibebruh-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: @aibebruh" />
 
 </div>
 
@@ -26,8 +27,7 @@
 ```yaml
 name: IceBear
 based_in: Vietnam
-current_role: "Computer Science student / [YOUR CURRENT ROLE]"
-workplace: "[YOUR UNIVERSITY / COMPANY / REMOTE]"
+current_role: "Head Research @ BrotherHoodLAB"
 interests:
   - AI Agents & LLMs
   - Computer Vision & Deep Learning
