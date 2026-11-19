@@ -18,7 +18,6 @@
 
 <a href="https://x.com/IceBearResearch"><img src="https://img.shields.io/badge/X-@IceBearResearch-000000?style=for-the-badge&logo=x&logoColor=white" alt="X: @IceBearResearch" /></a>
 <a href="https://x.com/judyluvCS"><img src="https://img.shields.io/badge/X-@judyluvCS-000000?style=for-the-badge&logo=x&logoColor=white" alt="X: @judyluvCS" /></a>
-<img src="https://img.shields.io/badge/Discord-@aibebruh-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: @aibebruh" />
 
 </div>
 
