@@ -25,7 +25,7 @@
 ## 👋 About me
 
 ```yaml
-name: IceBear
+name: IceBear / aibe or Judy 
 based_in: Vietnam
 current_role: "Head Research @ BrotherHoodLAB"
 interests:
@@ -55,7 +55,6 @@ fun_fact: "You just got rickrolled by a README."
 
 ## 🚀 Currently
 
-- 🔭 Working on: **[YOUR PROJECT / RESEARCH TOPIC]**
 - 🌱 Learning: **AI Agent frameworks, LLM applications, and computer vision**
 - 🤝 Open to: **collaborations, research discussions, and interesting ideas**
 
