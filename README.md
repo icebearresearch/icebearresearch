@@ -4,7 +4,7 @@
 
 **AI Research · AI Agent · Computer Vision**
 
-Vietnam 🇻🇳 · Head Research @ **BrotherHoodLAB**
+ Head Research @ **BrotherHoodLAB**
 
 <br />
 
