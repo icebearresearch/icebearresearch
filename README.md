@@ -2,7 +2,7 @@
 
 # ❄️ Hey, I'm IceBear
 
-**AI Research · Computer Vision · Open Source**
+**AI Research · AI Agent · Computer Vision**
 
 Vietnam 🇻🇳 · Head Research @ **BrotherHoodLAB**
 
