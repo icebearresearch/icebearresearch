@@ -8,9 +8,6 @@
 
 <br />
 
-<a href="https://x.com/IceBearResearch">
-  <img src="https://img.shields.io/badge/@IceBearResearch-0D1117?style=for-the-badge&logo=x&logoColor=91D5FF" alt="IceBearResearch on X" />
-</a>
 <a href="https://x.com/judyluvCS">
   <img src="https://img.shields.io/badge/@judyluvCS-0D1117?style=for-the-badge&logo=x&logoColor=91D5FF" alt="judyluvCS on X" />
 </a>
