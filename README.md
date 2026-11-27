@@ -43,7 +43,7 @@ interests:
   - AI Agents & LLMs
   - Computer Vision & Deep Learning
   - Open Source
-  - Web3 & emerging technologies
+  - Emerging technologies
 currently_exploring: "Building useful AI-powered projects"
 fun_fact: "There's a very important introduction video below."
 ```
@@ -53,7 +53,6 @@ fun_fact: "There's a very important introduction video below."
 - 🤖 **AI Agents & LLMs** — experimenting with tools, autonomous workflows, and RAG.
 - 👁️ **Computer Vision** — detection, segmentation, and image understanding.
 - 🛠️ **Building things** — turning random ideas into real projects.
-- 🌐 **Web3 & open source** — exploring decentralized tech and developer communities.
 
 ## 🌱 Currently exploring
 
